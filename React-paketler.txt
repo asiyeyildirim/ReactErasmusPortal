@@ -1,0 +1,9 @@
+npm i react-bootstrap,
+npm install express bootstrap,
+react-router-dom,
+npm i react-slider,
+npm i fa-icons,
+npm i sweetalert2,
+
+
+(Şifre güncelleme alanını Sidebar icerisinde alt panele aldım)
